@@ -4,8 +4,6 @@
    Fonts: Bricolage Grotesque (headings) + Figtree (body)
    ========================================================== */
 
-@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&display=swap");
-
 :root {
   --paper: #f5f6fa;
   --surface: #ffffff;
